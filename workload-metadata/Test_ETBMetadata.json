@@ -77,15 +77,8 @@
     "data_files": {
                "opportunity_file" : "ETBFOURTEEN.csv"
     }
-      },
-    {
-    "task_name": "Test-Login15",
-    "script_name": "ETBTHREEHUNDRED.jmx",
-    "data_files": {
-               "opportunity_file" : "ETBFIFTEEN.csv"
-        
       }
-   }
+   
   
   ]
 }
