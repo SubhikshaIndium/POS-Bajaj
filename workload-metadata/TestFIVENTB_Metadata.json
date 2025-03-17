@@ -3,7 +3,7 @@
   "tasks": [
     {
     "task_name": "Test-NTBLogin5",
-    "script_name": "NTBTWOFIFTYTwoThousand.jmx",
+    "script_name": "NTBTWOFIFTY.jmx",
     "data_files": {
                "opportunity_file" : "NTBFIVE.csv"
         
