@@ -8,6 +8,22 @@
                "opportunity_file" : "ETBTHREE.csv"
         
       }
+   },
+{
+    "task_name": "Test-Login3",
+    "script_name": "ETBTWOFIFTY.jmx",
+    "data_files": {
+               "opportunity_file" : "ETBFOUR.csv"
+        
+      }
+   },
+{
+    "task_name": "Test-Login4",
+    "script_name": "ETBTWOFIFTY.jmx",
+    "data_files": {
+               "opportunity_file" : "ETBFIVE.csv"
+        
+      }
    }
   
   ]
