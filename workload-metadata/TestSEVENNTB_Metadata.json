@@ -8,6 +8,30 @@
                "opportunity_file" : "NTBSEVEN.csv"
         
       }
+   },
+ {
+    "task_name": "Test-NTBLogin8",
+    "script_name": "NTBTWOFIFTY.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBEIGHT.csv"
+        
+      }
+   },
+ {
+    "task_name": "Test-NTBLogin9",
+    "script_name": "NTBTWOFIFTY.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBNINE.csv"
+        
+      }
+   },
+ {
+    "task_name": "Test-NTBLogin10",
+    "script_name": "NTBTWOFIFTY.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBTEN.csv"
+        
+      }
    }
   
   ]
