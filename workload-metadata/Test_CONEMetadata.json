@@ -8,7 +8,30 @@
                "opportunity_file" : "CCCONE.csv"
         
       }
-   }
-  
+    },
+      {
+    "task_name": "Test-CLogin2",
+    "script_name": "CustomerCreation.jmx",
+    "data_files": {
+               "opportunity_file" : "CCCONE.csv"
+        
+      }
+      },
+        {
+    "task_name": "Test-CLogin3",
+    "script_name": "CustomerCreation.jmx",
+    "data_files": {
+               "opportunity_file" : "CCCONE.csv"
+        
+      }
+        },
+        {
+    "task_name": "Test-CLogin4",
+    "script_name": "CustomerCreation.jmx",
+    "data_files": {
+               "opportunity_file" : "CCCONE.csv"
+        
+      }
+      }  
   ]
 }
