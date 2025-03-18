@@ -29,7 +29,7 @@
     "task_name": "Test-CLogin4",
     "script_name": "CustomerCreation.jmx",
     "data_files": {
-               "opportunity_file" : "CCCONE.csv"
+               "opportunity_file" : "CCCFOUR.csv"
         
       }
       }  
