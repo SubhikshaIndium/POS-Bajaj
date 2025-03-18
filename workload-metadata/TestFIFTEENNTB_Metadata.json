@@ -5,7 +5,7 @@
     "task_name": "Test-NTBLogin15",
     "script_name": "NTBTWOFIFTYTwoThousand.jmx",
     "data_files": {
-               "opportunity_file" : "NTBFIFTEEN.csv"
+               "opportunity_file" : "NTBONE.csv"
         
       }
    }
