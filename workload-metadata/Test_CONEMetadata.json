@@ -3,33 +3,33 @@
   "tasks": [
     {
     "task_name": "Test-CLogin1",
-    "script_name": "CustomerCreation.jmx",
+    "script_name": "CustomerCreationToken.jmx",
     "data_files": {
-               "opportunity_file" : "CCCONE.csv"
+               "opportunity_file" : "CCCONETK.csv"
         
       }
     },
       {
     "task_name": "Test-CLogin2",
-    "script_name": "CustomerCreation.jmx",
+    "script_name": "CustomerCreationToken.jmx",
     "data_files": {
-               "opportunity_file" : "CCCTwo.csv"
+               "opportunity_file" : "CCCTwoTK.csv"
         
       }
       },
         {
     "task_name": "Test-CLogin3",
-    "script_name": "CustomerCreation.jmx",
+    "script_name": "CustomerCreationToken.jmx",
     "data_files": {
-               "opportunity_file" : "CCCTHREE.csv"
+               "opportunity_file" : "CCCTHREETK.csv"
         
       }
         },
         {
     "task_name": "Test-CLogin4",
-    "script_name": "CustomerCreation.jmx",
+    "script_name": "CustomerCreationToken.jmx",
     "data_files": {
-               "opportunity_file" : "CCCFOUR.csv"
+               "opportunity_file" : "CCCFOURTK.csv"
         
       }
       }  
