@@ -3,9 +3,9 @@
   "tasks": [
     {
     "task_name": "Test-Login",
-    "script_name": "NEWMODEL.jmx",
+    "script_name": "NTBTWOFIFTYTOKEN.jmx",
     "data_files": {
-               "opportunity_file" : "New.csv"
+               "opportunity_file" : "NTBONETK.csv"
         
       }
    }
