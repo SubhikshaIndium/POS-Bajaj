@@ -3,33 +3,33 @@
   "tasks": [
     {
     "task_name": "Test-NTBLogin7",
-    "script_name": "NTBTWOFIFTY.jmx",
+    "script_name": "NTBTWOFIFTYTOKEN.jmx",
     "data_files": {
-               "opportunity_file" : "NTBSEVEN.csv"
+               "opportunity_file" : "NTBSEVENTK.csv"
         
       }
    },
  {
     "task_name": "Test-NTBLogin8",
-    "script_name": "NTBTWOFIFTY.jmx",
+    "script_name": "NTBTWOFIFTYTOKEN.jmx",
     "data_files": {
-               "opportunity_file" : "NTBEIGHT.csv"
+               "opportunity_file" : "NTBEIGHTTK.csv"
         
       }
    },
  {
     "task_name": "Test-NTBLogin9",
-    "script_name": "NTBTWOFIFTY.jmx",
+    "script_name": "NTBTWOFIFTYTOKEN.jmx",
     "data_files": {
-               "opportunity_file" : "NTBNINE.csv"
+               "opportunity_file" : "NTBNINETK.csv"
         
       }
    },
  {
     "task_name": "Test-NTBLogin10",
-    "script_name": "NTBTWOFIFTY.jmx",
+    "script_name": "NTBTWOFIFTYTOKEN.jmx",
     "data_files": {
-               "opportunity_file" : "NTBTEN.csv"
+               "opportunity_file" : "NTBTENTK.csv"
         
       }
    }
