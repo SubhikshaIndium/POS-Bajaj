@@ -3,7 +3,7 @@
   "tasks": [
     {
     "task_name": "Test-CLogin1",
-    "script_name": "CustomerCreationToken.jmx",
+    "script_name": "CustomerCreationTokenTK.jmx",
     "data_files": {
                "opportunity_file" : "CCCONETK.csv"
         
@@ -11,7 +11,7 @@
     },
       {
     "task_name": "Test-CLogin2",
-    "script_name": "CustomerCreationToken.jmx",
+    "script_name": "CustomerCreationTokenTK.jmx",
     "data_files": {
                "opportunity_file" : "CCCTwoTK.csv"
         
@@ -19,7 +19,7 @@
       },
         {
     "task_name": "Test-CLogin3",
-    "script_name": "CustomerCreationToken.jmx",
+    "script_name": "CustomerCreationTokenTK.jmx",
     "data_files": {
                "opportunity_file" : "CCCTHREETK.csv"
         
@@ -27,7 +27,7 @@
         },
         {
     "task_name": "Test-CLogin4",
-    "script_name": "CustomerCreationToken.jmx",
+    "script_name": "CustomerCreationTokenTK.jmx",
     "data_files": {
                "opportunity_file" : "CCCFOURTK.csv"
         
