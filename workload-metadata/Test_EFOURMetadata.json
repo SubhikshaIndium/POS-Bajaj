@@ -37,7 +37,7 @@
     "task_name": "Test-ETBLogin8",
     "script_name": "ETBTHREEHUNDREDToken.jmx",
     "data_files": {
-               "opportunity_file" : "FINALETBEIGHT.csv"
+               "opportunity_file" : "FINFINALETBEIGHT.csv"
         
       }
     },
