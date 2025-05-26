@@ -3,9 +3,9 @@
   "tasks": [
     {
     "task_name": "Test-NLogin1",
-    "script_name": "NTBTWOFIFTY.jmx",
+    "script_name": "NTBHUN.jmx",
     "data_files": {
-               "opportunity_file" : "NTBBB.csv"
+               "opportunity_file" : "NTBSIXTEENTK.csv"
         
       }
 }
