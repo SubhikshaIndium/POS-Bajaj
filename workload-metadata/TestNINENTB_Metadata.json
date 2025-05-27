@@ -3,9 +3,9 @@
   "tasks": [
     {
     "task_name": "Test-NTBLogin9",
-    "script_name": "NTBTWOFIFTYTwoThousand.jmx",
+    "script_name": "NTBTWOFIFTYTOKEN.jmx",
     "data_files": {
-               "opportunity_file" : "NTBNINE.csv"
+               "opportunity_file" : "TUENTBONE.csv"
         
       }
    }
