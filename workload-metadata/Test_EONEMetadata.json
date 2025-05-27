@@ -3,9 +3,9 @@
   "tasks": [
     {
     "task_name": "Test-Login1",
-    "script_name": "ETBTWOFIFTY.jmx",
+    "script_name": "ETBTWOFIFTYTOKEN.jmx",
     "data_files": {
-               "opportunity_file" : "ETBONE.csv"
+               "opportunity_file" : "DETBONE.csv"
         
       }
    }
