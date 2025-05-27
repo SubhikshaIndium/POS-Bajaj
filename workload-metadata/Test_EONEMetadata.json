@@ -8,6 +8,22 @@
                "opportunity_file" : "DETBONE.csv"
         
       }
+   },
+    {
+    "task_name": "Test-Login1",
+    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "DETBTWOO.csv"
+        
+      }
+   },
+    {
+    "task_name": "Test-Login1",
+    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "DETBTHREE.csv"
+        
+      }
    }
   
   ]
