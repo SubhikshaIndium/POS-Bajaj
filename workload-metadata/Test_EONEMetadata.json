@@ -13,7 +13,7 @@
     "task_name": "Test-Login1",
     "script_name": "ETBTWOFIFTYTOKEN.jmx",
     "data_files": {
-               "opportunity_file" : "DETBTWOO.csv"
+               "opportunity_file" : "DDETBTWOO.csv"
         
       }
    },
