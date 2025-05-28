@@ -29,7 +29,7 @@
     "task_name": "Test-ETBLogin7",
     "script_name": "ETBTHREEHUNDREDToken.jmx",
     "data_files": {
-               "opportunity_file" : "DETBSEVEN.csv"
+               "opportunity_file" : "DDETBSEVEN.csv"
         
       }
     },
@@ -69,7 +69,7 @@
     "task_name": "Test-ETBLogin12",
     "script_name": "ETBTHREEHUNDREDToken.jmx",
     "data_files": {
-               "opportunity_file" : "DETBTWEVEL.csv"
+               "opportunity_file" : "DDETBTWEVEL.csv"
         
       }
     },
