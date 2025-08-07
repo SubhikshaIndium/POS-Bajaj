@@ -2,29 +2,53 @@
   "jmeter_version" : "5.6.3",
   "tasks": [
     {
-    "task_name": "Test-Login1",
-    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "task_name": "Test-ETBLogin4",
+    "script_name": "ETBTHREEHUNDREDToken.jmx",
     "data_files": {
-               "opportunity_file" : "DETBONE.csv"
+               "opportunity_file" : "DETBFOUR.csv"
         
       }
-   },
+    },
     {
-    "task_name": "Test-Login1",
-    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "task_name": "Test-ETBLogin5",
+    "script_name": "ETBTHREEHUNDREDToken.jmx",
     "data_files": {
-               "opportunity_file" : "DDETBTWOO.csv"
+               "opportunity_file" : "DETBFIVE.csv"
         
       }
-   },
+    },
     {
-    "task_name": "Test-Login1",
-    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "task_name": "Test-ETBLogin6",
+    "script_name": "ETBTHREEHUNDREDToken.jmx",
     "data_files": {
-               "opportunity_file" : "DETBTHREE.csv"
+               "opportunity_file" : "DETBSIX.csv"
         
       }
-   }
-  
+    },
+    {
+    "task_name": "Test-ETBLogin7",
+    "script_name": "ETBTHREEHUNDREDToken.jmx",
+    "data_files": {
+               "opportunity_file" : "DDDETBSEVEN.csv"
+        
+      }
+    },
+    {
+    "task_name": "Test-ETBLogin8",
+    "script_name": "ETBTHREEHUNDREDToken.jmx",
+    "data_files": {
+               "opportunity_file" : "DETBEIGHT.csv"
+        
+      }
+    },
+    {
+    "task_name": "Test-ETBLogin9",
+    "script_name": "ETBTHREEHUNDREDToken.jmx",
+    "data_files": {
+               "opportunity_file" : "DETBNINE.csv"
+        
+      }
+    }
   ]
 }
+    },
